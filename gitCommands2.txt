@@ -8,10 +8,3 @@ git add
 git commit -m ""
 git log
 git diff <filename>
-<<<<<<< HEAD
--------------------------------------------------------------
-Updated to create a privatebranch2..................
-=======
------------------------------------
-updated file to create a new branch
->>>>>>> 6d8646fe1177d6bc55a03d93e9b40fd9bfa384bd
